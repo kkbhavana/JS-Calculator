@@ -48,3 +48,8 @@ button{
     border-radius: 15px;
 
 }
+.on_off{
+   display: flex;
+   justify-content: space-between;
+    
+}
